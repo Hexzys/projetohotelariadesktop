@@ -1,0 +1,14 @@
+C:\Users\VINICIOS\Desktop\PIM Completo\PIM 4 sem.exe
+C:\Users\VINICIOS\Desktop\PIM Completo\PIM 4 sem.dll
+C:\Users\VINICIOS\Desktop\PIM Completo\PIM 4 sem.deps.json
+C:\Users\VINICIOS\Desktop\PIM Completo\PIM 4 sem.runtimeconfig.json
+C:\Users\VINICIOS\Desktop\PIM Completo\PIM 4 sem.pdb
+C:\Users\VINICIOS\Desktop\PIM Completo\MetroFramework.Design.dll
+C:\Users\VINICIOS\Desktop\PIM Completo\MetroFramework.Fonts.dll
+C:\Users\VINICIOS\Desktop\PIM Completo\MetroFramework.dll
+C:\Users\VINICIOS\Desktop\PIM Completo\System.Data.SqlClient.dll
+C:\Users\VINICIOS\Desktop\PIM Completo\runtimes\win-arm64\native\sni.dll
+C:\Users\VINICIOS\Desktop\PIM Completo\runtimes\win-x64\native\sni.dll
+C:\Users\VINICIOS\Desktop\PIM Completo\runtimes\win-x86\native\sni.dll
+C:\Users\VINICIOS\Desktop\PIM Completo\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VINICIOS\Desktop\PIM Completo\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

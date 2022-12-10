@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\VINICIOS\Desktop\pim 4 semestre\PIM 4 SEMESTRE\PIM 4 sem\PIM 4 sem\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AlterarFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cadastrarQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cadhospede.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cadReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Checkin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Checkout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Checkout2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deletarFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeletarHospede.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deletarQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeletarReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormFuncMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCadFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFuncionario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="frmFuncMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="historico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Marehotel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuHospede.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuQuartos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PesqQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PesquisarFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="principal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Serviços.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserFuncMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
